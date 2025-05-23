@@ -14,6 +14,7 @@ cd backend
 
 yarn install
 
+yarn start:dev
 
 
 Далі запуск фронтенд частини:
@@ -22,3 +23,4 @@ cd ../frontend
 
 yarn install
 
+yarn run dev
