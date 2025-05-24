@@ -19,7 +19,7 @@ yarn start:dev
 
 Далі запуск фронтенд частини:
 
-cd ../frontend
+cd frontend
 
 yarn install
 
